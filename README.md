@@ -17,10 +17,6 @@ This project focuses on building a **clean, elegant, and interactive login inter
 
 ---
 
-## 📸 Preview
-
-![Project Preview](https://github.com/Chetan323212/glownest-login-page/blob/0ebb66d840b07f14b15a2068eb474f3636f46346/img/img%202.png)
-
 ## 📸  Vedio Preview
 ![Vedio Preview](img/demo.gif)
 
