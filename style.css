@@ -10,7 +10,7 @@
 
 .background-image {
     height: 100vh;
-    background-image: url("/week_1_project/img/bg2.jpg");
+    background-image: url("https://github.com/Chetan323212/glownest-login-page/blob/0014a29104ad5a28f152f2e148ff5eed2bc0170a/img/bg2.jpg");
     background-size: cover;
     background-position: center;
     display: flex;
