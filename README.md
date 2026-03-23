@@ -19,7 +19,7 @@ This project focuses on building a **clean, elegant, and interactive login inter
 
 ## 📸 Preview
 
-![Project Preview](./glownest-login-page/img1.png)
+![Project Preview](img1 .png)
 
 ---
 
