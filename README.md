@@ -19,8 +19,7 @@ This project focuses on building a **clean, elegant, and interactive login inter
 
 ## 📸 Preview
 
-![Project Preview](img 1.png)
-![Project Preview](img 2.png)
+![Project Preview](img1.png)
 
 ---
 
